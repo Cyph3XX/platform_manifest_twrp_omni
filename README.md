@@ -4,7 +4,7 @@
 
 	Cyph3XX@Cyph3XX:~$ sudo
 	[sudo] password for Cyph3XX: ******
-	root@Cyph3XX :~# ls
+	root@Cyph3XX:~# ls
 	Android Dev XDA 4PDA & Other Forums!
 
 
